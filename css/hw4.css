@@ -1,0 +1,52 @@
+ a {
+     text-decoration: none;
+     color: white;
+     padding: 11.3px;
+     text-align: center;
+     font-size: 25px;
+ }
+
+ .ax {
+     text-align: center;
+     padding-top: 25px;
+     background-color: rgb(43, 41, 53);
+     padding-bottom: 25px;
+ }
+ h1 {
+    font-size: 40px;
+ }
+ button{
+    height: 50px;
+    width: 70px;
+   background-color:rgb(72, 180, 133);
+   text-decoration: solid;
+ }
+ .colon{
+    height: 50px;
+    width: 55p;
+ }
+ .great{
+    background-color: rgb(18, 102, 67);
+    text-indent: 20px;
+    padding-top: 5px;
+ }
+ .but{
+    height: 50px;
+    width: 250px;
+    font-size: 14px;
+ }
+ .color{
+    width: 220px;
+    background-color: black;
+ }
+ h2{
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-indent: 15px;
+ }
+ .csgo{
+    height: 50px;
+    width: 220px;
+    font-size: 18px;
+ }

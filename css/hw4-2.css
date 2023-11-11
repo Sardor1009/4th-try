@@ -1,0 +1,37 @@
+.gerat{
+     text-align: center;
+     padding-top: 25px;
+     background-color: rgb(43, 41, 53);
+     padding-bottom: 25px;
+}
+a{
+    text-decoration: none;
+     color: white;
+     padding: 11.3px;
+     font-size: 25px;
+
+}
+ button{
+    height: 50px;
+    width: 75px;
+   background-color:rgb(72, 180, 133, 0.7);
+   text-decoration: solid;
+   font-size:17px;
+ }
+ .colon{
+    height: 50px;
+    width: 65px;
+ }
+ .dev{
+    padding-top: 0.1px;
+    background-color: rgb(18, 102, 67);
+   
+ }
+ .dev p{
+    text-indent: 20px;
+ }
+ link[href] {
+   border-radius: 50%;
+ }
+
+ 
